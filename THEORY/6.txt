@@ -1,0 +1,15 @@
+Question 6:- List any 5 semantic tags in HTML along with thier descriptions.
+Answer :- Are 5 semantic tags in HTML along with their descriptions:
+
+* <header> tag: The header tag is used to mark up the header of a web page. It is typically used to contain the page title, navigation links, and other important information.
+
+* <nav> tag: The nav tag is used to mark up a navigation section of a web page. It is typically used to contain links to other pages on the same site or to external websites.
+
+* <article> tag: The article tag is used to mark up an independent piece of content, such as a blog post, news article, or product review.
+
+* <aside> tag: The aside tag is used to mark up content that is related to the main content of the page, but is not essential. It is typically used to contain sidebars, comments, or other supplemental information.
+
+* <footer> tag: The footer tag is used to mark up the footer of a web page. It is typically used to contain copyright information, contact information, and other legal information.
+
+Semantic tags are important for accessibility and SEO. They help screen readers and other assistive technologies to understand the structure of a web page, which can make it easier for users with disabilities to use the page. Semantic tags can also help search engines index the content of a web page, which can help improve the page's ranking in search results.
+

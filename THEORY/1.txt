@@ -1,0 +1,15 @@
+Question 1 :-List out the features of HTML5
+
+Answer :- Here are some of the most important features of HTML 5:
+
+1. Video and audio: HTML 5 introduces new elements for embedding video and audio content in web pages. This makes it possible to create rich multimedia experiences without the need for third-party plugins.
+
+2. Forms: HTML 5 introduces new features for forms, such as input types for email addresses, dates, and telephone numbers. It also supports validation of form data, which helps to ensure that users enter accurate information.
+
+3. Geolocation: HTML 5 provides a way for web pages to access the user's location. This can be used to provide location-based services, such as weather forecasts or directions.
+
+4. Storage: HTML 5 introduces two new forms of storage: local storage and session storage. Local storage allows web pages to store data for the duration of the user's browser session, while session storage is only available for the current browsing session.
+
+5. Canvas: The canvas element allows web developers to create dynamic, interactive graphics. This can be used for games, animations, and other applications.
+
+6. WebSockets: WebSockets provide a way for web pages to communicate with a web server in real time. This can be used for applications such as chat, multiplayer games, and live streaming

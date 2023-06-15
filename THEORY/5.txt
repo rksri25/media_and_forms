@@ -1,0 +1,22 @@
+Question 5:-  Write a short note on tab index.
+Answer 5:-  The tabindex attribute is a global attribute in HTML that specifies whether an element can be focused using the Tab key.
+
+A tabindex value of 0 makes an element focusable. A tabindex value of -1 makes an element unfocusable. A tabindex value of greater than 0 makes an element focusable and specifies the order in which it will be focused when the Tab key is pressed.
+
+Elements with a tabindex value of 0 or greater are also considered to be part of the document's tab order. This means that they will be included when the user tabs through the document using the Tab key.
+
+Elements with a tabindex value of -1 are not considered to be part of the document's tab order. This means that they will not be included when the user tabs through the document using the Tab key.
+
+The tabindex attribute is important for accessibility. It allows users to navigate through a web page using the keyboard, which is important for users who cannot use a mouse or who have difficulty using a mouse.
+
+Here are some of the benefits of using the tabindex attribute:
+
+* Improves accessibility: The tabindex attribute can help to improve the accessibility of a web page by making it easier for users to navigate the page using the keyboard.
+* Increases usability: The tabindex attribute can also help to increase the usability of a web page by making it easier for users to find and interact with the elements on the page.
+* Improves SEO: Search engines can also use the tabindex attribute to index the content of a web page, which can help to improve the page's ranking in search results.
+* Here are some of the best practices for using the tabindex attribute:
+
+* Use a tabindex value of 0 for all elements that should be focusable.
+* Use a tabindex value of -1 for elements that should not be focusable.
+* Use a positive tabindex value for elements that should be focusable and specify the order in which they should be focused.
+* Use the tabindex attribute consistently throughout your web pages.

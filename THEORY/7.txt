@@ -1,0 +1,19 @@
+Questrion 7 :- What are the benefits of using semantic tags in our webpage.
+Answer 7 :-
+* Improved accessibility: Semantic tags can help make your website more accessible to users with disabilities. Screen readers and other assistive technologies can use semantic tags to understand the structure of your website, which can make it easier for users with disabilities to navigate and use your website.
+
+* Better SEO: Search engines can also use semantic tags to understand the content of your website. This can help improve your website's ranking in search results.
+
+* Increased usability: Semantic tags can help make your website more user-friendly for all users. By using semantic tags to clearly define the different elements of your website, you can make it easier for users to find what they are looking for and to navigate your website.
+
+* Improved code readability: Semantic tags can help make your code more readable for developers. By using semantic tags to clearly define the different elements of your website, you can make it easier for developers to understand your code and to make changes to your website.
+
+Here are some examples of how semantic tags can be used to improve the accessibility, SEO, usability, and code readability of a webpage:-
+
+i) <header> tag: The header tag can be used to mark up the header of a webpage. This can help screen readers and other assistive technologies to identify the main content of the webpage. It can also help search engines to understand the structure of the webpage and to rank it higher in search results.
+
+ii) <nav> tag: The nav tag can be used to mark up the navigation section of a webpage. This can help users to easily find the different pages on the website. It can also help search engines to understand the structure of the webpage and to rank it higher in search results.
+
+iii) <article> tag: The article tag can be used to mark up an independent piece of content, such as a blog post, news article, or product review. This can help users to easily find and read the content that they are interested in. It can also help search engines to understand the content of the webpage and to rank it higher in search results.
+
+iv) <aside> tag: The aside tag can be used to mark up content that is related to the main content of the webpage, but is not essential. This can help users to easily find and read the content that they are interested in. It can also help search engines to understand the content of the webpage and to rank it higher in search results.
